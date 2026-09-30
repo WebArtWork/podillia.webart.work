@@ -18,3 +18,6 @@ Live site: https://podillia.webart.work
 
 ## Notes
 The page explicitly states that room categories, pricing, stay conditions, gym equipment and memberships, and sauna capacity and booking rules are not yet confirmed and should be clarified by phone. It also notes the site does not claim to offer medical treatment programs, diagnostics, or procedures.
+
+## Forms
+Live forms posting to HotelOS (`kp-podillia`): `stay-request` (after the hotel section) and `sauna-request` (after the sauna section). Gym and specialist consultations have no HotelOS form type and still point to the phone/contact block (`#request`).
